@@ -1,2 +1,2 @@
-# CF-Zone-Rules-Transfer
-Transfers CF Zone Rules from one zone to another
+# CF-Zone-Ruleset-Transfer
+Transfers CF Zone Ruleset from one zone to another
